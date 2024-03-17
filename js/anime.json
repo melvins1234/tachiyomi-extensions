@@ -1,0 +1,19 @@
+[{
+    "name": "Tachiyomi: PinayFlix TV",
+    "pkg": "eu.kanade.tachiyomi.revived.all.pinayflixtv",
+    "apk": "tachiyomi-all.pinayflixtv-revived-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [{
+        "name": "PinayFlix TV",
+        "lang": "all",
+        "id": "1843646695111412994",
+        "baseUrl": "https://pinayflixtv.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+    }]
+}]
